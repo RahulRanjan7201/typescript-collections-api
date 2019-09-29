@@ -24,3 +24,13 @@ Operation
 4. getLength
 5. peek
 
+We are introducing new DS Stack 
+.Stack is DS which two key operation 
+1. Push of an element in store 
+2. Pop the element
+
+Operations
+1.isEmpty()
+2.getLength()
+3.push(value)
+4.pop()
